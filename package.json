@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "git+https://github.com/birdlab/vktron"
   },
-  "author": "GitHub",
+  "author": "BirdLab",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
+    "url": "https://github.com/birdlab/vktron/issues"
   },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "homepage": "https://github.com/birdlab/vktron#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.36.0"
   }
